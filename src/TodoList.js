@@ -13,6 +13,7 @@ export class TodoList extends React.Component{
 			<Todo text={todo.text} priority={todo.priority} dueDate={todo.dueDate} />
 		</li>	
 	  );
+	  {console.log(listaTodos)}
 	  return (
 		<ul>{listaTodos}</ul>
 	  );
