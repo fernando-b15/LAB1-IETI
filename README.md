@@ -9,7 +9,7 @@ This Project was to learn and introduce to use of library [React](https://github
   * Syllabus
         ![img](https://github.com/fernando-b15/LAB1-IETI/blob/master/img/curso1.PNG)
   * Jsx 
-        ![img](https://github.com/fernando-b15/LAB1-IETI/blob/master/img/curso2.PNG)
+        ![img](https://github.com/fernando-b15/LAB1-IETI/blob/master/img/curso%202.PNG)
   * React Components      
         ![img](https://github.com/fernando-b15/LAB1-IETI/blob/master/img/curso4.PNG)
   * Components Interacting
