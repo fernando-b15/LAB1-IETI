@@ -11,9 +11,9 @@ This Project was to learn and introduce to use of library [React](https://github
   * Jsx 
         ![img](https://github.com/fernando-b15/LAB1-IETI/blob/master/img/curso2.PNG)
   * React Components      
-        ![img](https://github.com/fernando-b15/LAB1-IETI/blob/master/img/curso3.PNG)
-  * Components Interacting
         ![img](https://github.com/fernando-b15/LAB1-IETI/blob/master/img/curso4.PNG)
+  * Components Interacting
+        ![img](https://github.com/fernando-b15/LAB1-IETI/blob/master/img/curso3.PNG)
         
 ## License
 
