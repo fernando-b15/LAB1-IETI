@@ -19,6 +19,10 @@ This Project was to learn and introduce to use of library [React](https://github
 
 This project has the following [License](https://github.com/fernando-b15/LAB1-IETI/blob/master/LICENSE)
 
+## Code of Honor
+
+This project has the following [Code of Honor](https://github.com/fernando-b15/LAB1-IETI/blob/master/Codigo%20de%20Honor.txt)
+
 ## Available Scripts
 
 The project can be download:
