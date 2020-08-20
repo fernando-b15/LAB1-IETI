@@ -1,6 +1,33 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# LAB-1-IETI
+This Project was to learn and introduce to use of library [React](https://github.com/facebook/create-react-app)
+
+
+## Author
+  * [Fernando Barrera Barrera](https://github.com/fernando-b15) :guitar:
+  
+## Curse of codeacademy
+  * Syllabus
+        ![img](https://github.com/fernando-b15/LAB1-IETI/blob/master/img/curso1.PNG)
+  * Jsx 
+        ![img](https://github.com/fernando-b15/LAB1-IETI/blob/master/img/curso2.PNG)
+  * React Components      
+        ![img](https://github.com/fernando-b15/LAB1-IETI/blob/master/img/curso3.PNG)
+  * Components Interacting
+        ![img](https://github.com/fernando-b15/LAB1-IETI/blob/master/img/curso4.PNG)
+        
+## License
+
+This project has the following [License](https://github.com/fernando-b15/LAB1-IETI/blob/master/LICENSE)
 
 ## Available Scripts
+
+The project can be download:
+
+### `git clone https://github.com/fernando-b15/LAB1-IETI`
+
+The project can be install:
+
+### `npm install`
 
 In the project directory, you can run:
 
